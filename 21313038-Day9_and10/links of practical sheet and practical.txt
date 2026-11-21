@@ -1,0 +1,19 @@
+practice sheet:
+
+Loops:
+https://github.com/sindhura-nk/Python-Module-Batch-180/blob/main/Practice%20sheets/Loops%20_For%20and%20While.ipynb
+
+Functions topic:
+https://github.com/sindhura-nk/Python-Module-Batch-180/blob/main/Practice%20sheets/Functions%20Topic.ipynb
+
+
+practical:
+
+Revision:
+https://github.com/sindhura-nk/Python-Module-Batch-180/blob/main/Revision.ipynb
+
+Loops:
+https://github.com/sindhura-nk/Python-Module-Batch-180/blob/main/Loops%20_For%20and%20While.ipynb
+
+Functions topic:
+https://github.com/sindhura-nk/Python-Module-Batch-180/blob/main/Functions%20Topic.ipynb

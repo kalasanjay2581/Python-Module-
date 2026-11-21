@@ -1,0 +1,35 @@
+➢ Write a function in python to add 2 numbers
+➢ Write a function in python to output cube of a given number.
+➢ Write a function in python to output cube of given numbers from a list.
+➢ Write a function in python to calculate sum of all elements inside a list
+➢ Write a function in python to calculate product of all elements inside a list.
+➢ Write a function in python to calculate hypotenuse of a right angled triangle.
+➢ Write a function in python which takes 3 sides and determines whether 3 sides form triangle or not .
+➢ Write a function in python that calculates area of triangle when 3 sides are given.
+➢ Write a function in python to calculate total words used in given sentence.
+➢ Write 2 functions to convert temperature to Celsius and Farenheit with names cel_to_far and far_to_cel.
+➢ Write a function to calculate factorial of given number eg. 5 factorial = 5*4*3*2*1
+➢ Write a function to count vowels from a given word or sentence (A , E, I , O, U)
+➢ Write a function to calculate EMI for Given P INR, N Years and R %p.a.
+➢ Write a function to output grade of a student based on below criteria
+Take marks of students as list input [70, 95, 90, 55, 35]
+•
+More than 90 : A
+•
+80-89 : B
+•
+70-79 : C
+•
+60-69 : D
+•
+Below 60 : F
+[C, A, A, F, F]
+
+➢ Write a function to analyze student marks as below
+•Take a list of marks from 0-100 [70, 95, 90, 55, 35]
+•Find average marks
+•Find highest marks
+•Find Lowest marks
+•Find number of Students passed (Marks>=60)
+•Find number of Students failed (Marks<60)
+•Return above in Dictionary format
